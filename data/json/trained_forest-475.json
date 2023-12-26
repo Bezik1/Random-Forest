@@ -1,0 +1,120 @@
+{
+  "feature_index": 0,
+  "threshold": 446,
+  "info_gain": 0.1603566529492455,
+  "value": null,
+  "left": {
+    "feature_index": null,
+    "threshold": null,
+    "info_gain": null,
+    "value": 0,
+    "left": null,
+    "right": null
+  },
+  "right": {
+    "feature_index": 0,
+    "threshold": 484,
+    "info_gain": 0.17275942609275952,
+    "value": null,
+    "left": {
+      "feature_index": null,
+      "threshold": null,
+      "info_gain": null,
+      "value": 1,
+      "left": null,
+      "right": null
+    },
+    "right": {
+      "feature_index": 0,
+      "threshold": 545,
+      "info_gain": 0.2235208181154127,
+      "value": null,
+      "left": {
+        "feature_index": null,
+        "threshold": null,
+        "info_gain": null,
+        "value": 2,
+        "left": null,
+        "right": null
+      },
+      "right": {
+        "feature_index": 0,
+        "threshold": 745,
+        "info_gain": 0.23809523809523803,
+        "value": null,
+        "left": {
+          "feature_index": 0,
+          "threshold": 690,
+          "info_gain": 0.2793650793650795,
+          "value": null,
+          "left": {
+            "feature_index": 0,
+            "threshold": 590,
+            "info_gain": 0.24222222222222223,
+            "value": null,
+            "left": {
+              "feature_index": null,
+              "threshold": null,
+              "info_gain": null,
+              "value": 3,
+              "left": null,
+              "right": null
+            },
+            "right": {
+              "feature_index": 0,
+              "threshold": 640,
+              "info_gain": 0.2268518518518518,
+              "value": null,
+              "left": {
+                "feature_index": null,
+                "threshold": null,
+                "info_gain": null,
+                "value": 4,
+                "left": null,
+                "right": null
+              },
+              "right": {
+                "feature_index": 0,
+                "threshold": 675,
+                "info_gain": 0.345679012345679,
+                "value": null,
+                "left": {
+                  "feature_index": null,
+                  "threshold": null,
+                  "info_gain": null,
+                  "value": 5,
+                  "left": null,
+                  "right": null
+                },
+                "right": {
+                  "feature_index": null,
+                  "threshold": null,
+                  "info_gain": null,
+                  "value": 4,
+                  "left": null,
+                  "right": null
+                }
+              }
+            }
+          },
+          "right": {
+            "feature_index": null,
+            "threshold": null,
+            "info_gain": null,
+            "value": 6,
+            "left": null,
+            "right": null
+          }
+        },
+        "right": {
+          "feature_index": null,
+          "threshold": null,
+          "info_gain": null,
+          "value": 7,
+          "left": null,
+          "right": null
+        }
+      }
+    }
+  }
+}

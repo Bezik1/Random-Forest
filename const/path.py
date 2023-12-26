@@ -1,0 +1,1 @@
+TRAINED_FOREST = "data/json/trained_forest"
